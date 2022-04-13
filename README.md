@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👯 I’m looking to collaborate on Golang projects.
+- - 💬 Ask me about ruby, go, aviation, fido, arch.
+
 [![Shtirlic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shtirlic&show_icons=true)](https://github.com/shtirlic)
