@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ruby, Go, Aviation, Fido, Arch Linux.
 - 📫 How to reach me: serg@podtynnyi.com or https://twitter.com/shtirlic
 
-[![Shtirlic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shtirlic&show_icons=true)](https://github.com/shtirlic)
+[![Shtirlic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shtirlic&show_icons=true&count_private=true)](https://github.com/shtirlic)
