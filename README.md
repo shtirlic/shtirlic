@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Shtirlic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shtirlic&show_icons=true&count_private=true)](https://github.com/shtirlic)
 
 - 👯 I’m looking to collaborate on Golang projects or Linux system pojects.
-- 🌱 I’m currently learning Cosmos ecosystem.
+- 🌱 I’m currently learning KDE ecosystem.
 - 💬 Ask me about Ruby, Go, Aviation, Fido, Arch Linux.
 - 📫 How to reach me: serg@podtynnyi.com or https://twitter.com/shtirlic
 
