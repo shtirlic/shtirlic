@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 I’m looking to collaborate on Golang projects.
+- 👯 I’m looking to collaborate on Golang projects or Linux system pojects.
 - 🌱 I’m currently learning Cosmos ecosystem.
-- 💬 Ask me about Ruby, Go, Aviation, Fido, Archlinux.
-- 📫 How to reach me: serg@podtynnyi.com
+- 💬 Ask me about Ruby, Go, Aviation, Fido, Arch Linux.
+- 📫 How to reach me: serg@podtynnyi.com or https://twitter.com/shtirlic
 
 [![Shtirlic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shtirlic&show_icons=true)](https://github.com/shtirlic)
