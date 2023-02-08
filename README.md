@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Golang projects or Linux system pojects.
 - 🌱 I’m currently learning KDE ecosystem.
-- 💬 Ask me about Ruby, Go, Aviation, Fidonet, Arch Linux, Video Transcoding.
+- 💬 Ask me about Ruby, Go, Aviation, Fidonet, Arch Linux,KDE, Video Transcoding.
 - 📫 How to reach me: serg@podtynnyi.com or https://twitter.com/shtirlic
 
 
