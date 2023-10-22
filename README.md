@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Shtirlic's GitHub Stats](https://github-readme-stats-shtirlic.vercel.app/api?username=shtirlic&show_icons=true&count_private=true)](https://github.com/shtirlic)
+[![Shtirlic's GitHub Stats](https://github-readme-stats-shtirlic.vercel.app/api?username=shtirlic&show_icons=true&count_private=true&bg_color=00000000)](https://github.com/shtirlic)
 
 - 👯 I’m looking to collaborate on Golang projects or Linux system pojects.
 - 🌱 I’m currently learning KDE ecosystem.
