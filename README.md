@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 [![Shtirlic's GitHub Stats](https://github-readme-stats-shtirlic.vercel.app/api?username=shtirlic&show_icons=true&count_private=true&bg_color=00000000)](https://github.com/shtirlic)
 
-- 👯 I’m looking to collaborate on Golang projects or Linux system pojects.
-- 🌱 I’m currently learning KDE ecosystem.
-- 💬 Ask me about Ruby, Go, Aviation, Fidonet, Arch Linux,KDE, Video Transcoding.
-- 📫 How to reach me: serg@podtynnyi.com or https://twitter.com/shtirlic
+- 👯 I’m looking to collaborate on Golang projects or Linux system pojects or NuttX system/porting. 
+- 🌱 I’m currently learning NuttX, fixing rp2350 port. Some stuff for PicoCalc
+- 💬 Ask me about Ruby, Go, Aviation, Fidonet, Arch Linux, KDE, Video Transcoding, NuttX
+- 📫 How to reach me: serg@podtynnyi.com
 
 
